@@ -1,0 +1,31 @@
+body {
+    background-color: lavender;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    Font-size: 100px;
+    text-align: center;
+    Text-decoration: underline overline;
+}
+img {
+    height:400px;    
+    Border: dotted;
+    border-color: grey;
+}
+h2 {
+    font-family: 'Amatic SC', cursive;
+    Font-size: 40px;
+    text-decoration: underline;
+}
+p {
+    font-family: 'Charmonman', cursive;
+    font-size: 25px;
+}
+ol {
+    font-family: 'Charmonman', cursive;
+    font-size: 25px;
+}
+ul {
+    font-family: 'Charmonman', cursive;
+    font-size: 25px;
+}
